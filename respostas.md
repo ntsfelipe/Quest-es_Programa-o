@@ -16,7 +16,7 @@ d) A saída será erro em ambas as linhas que utilizam console.log
 
 **Resposta: A**
 
-Justificativa: Por mais que "var" seja uma variável de escopo global, ela necessita um valor atribuído para ser exibido algo no console.log, porém, como não há nada sendo atribuido à variável x antes do "console.log(x)" o console retorna "undefinied".
+Justificativa: Por mais que "var" seja uma variável de escopo global, ela necessita um valor atribuído para algo ser exibido no console.log, porém, como não há nada sendo atribuido à variável x antes do "console.log(x)" o console retorna "undefinied".
 O tipo de variável let não existe até que algo seja atribuído a ela, o que faz com que o "console.log(y)" retorne um erro, pois é como se não existisse essa variável.
 
 **2) O seguinte código JavaScript tem um erro que impede sua execução correta. Analise e indique a opção que melhor corrige o problema. Justifique sua resposta.**
