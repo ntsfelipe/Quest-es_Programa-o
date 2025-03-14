@@ -183,7 +183,7 @@ d) Apenas I é verdadeira.
 
 **Resposta: A**
 
-Justificativa: A classe Funcionário de fato é herdada da classe Pessoa e pode acessar seus atributos diretamente, logo, a afirmação I é verdadeira. Também, o metodo "apresentar()" da classe Funcionário de fato sobrepõe o método "apresentar()" da classe Pessoa assim como é verdade que o método da classe pai é chamada usando o "super", logo, a afirmação II está correta. Entretanto, na afirmação III há a afirmação errônea de que no javascript não há herança de classes, o que é incorreto.
+Justificativa: A classe Funcionário de fato é herdada da classe Pessoa e pode acessar seus atributos diretamente, isso é evidente pelo uso do comando "extends Pessoa" após o nome da classe, logo, a afirmação I é verdadeira. Também, o metodo "apresentar()" da classe Funcionário de fato sobrepõe o método "apresentar()" da classe Pessoa ao ser construída novamente na nova classe, assim como é verdade que o método da classe pai é chamada usando o "super", logo, a afirmação II está correta. Entretanto, na afirmação III há a afirmação errônea de que no javascript não há herança de classes, o que é incorreto.
 ______
 
 **8) Analise as afirmações a seguir. Indique a alternativa correta e justifique sua resposta.**
