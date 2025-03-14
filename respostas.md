@@ -137,7 +137,7 @@ d) A primeira afirmação é falsa, e a segunda é verdadeira.
 
 **Resposta: A**
 
-Justificativa: A afirmação II explica como é feita a herança de classes no javascript, utilizando a palavra-chave "extends", e a afirmação I explica o que é uma herança de classes, logo, a justificativa II só existe por que a I também existe.
+Justificativa: A afirmação II explica como é feita a herança de classes no javascript, utilizando a palavra-chave "extends", e a afirmação I explica o que é uma herança de classes, logo, a justificativa II só existe por que a I é verdadeira.
 ______
 **7) Dado o seguinte código. Indique a alternativa correta e justifique sua resposta.**
 
